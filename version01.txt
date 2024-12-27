@@ -1,4 +1,7 @@
 This is first feature of our application
+<<<<<<< HEAD
 This is the bug fix in development branch
 This is wrong code
 This feature will impact everything from now
+=======
+>>>>>>> parent of 4739063 (Added feature2 in development branch)
